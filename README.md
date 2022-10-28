@@ -1,3 +1,3 @@
 # AutiSmile
 
-a react native mobile application for early detection of autism using machine learning.
+a react native mobile application for the detection of autism using machine learning.
